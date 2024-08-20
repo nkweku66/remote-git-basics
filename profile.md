@@ -1,7 +1,7 @@
 ## Profile
-Name: Nana Obeng
-Dept: Computer Science
-Location: Accra - Ghana
+- Name: Nana Obeng
+- Dept: Computer Science
+- Location: Accra - Ghana
 
 ## Lessons learnt
 1. Learned about how to setup raspberry Pi
